@@ -70,7 +70,7 @@ strict = [
     "trimesh==4.5.3",
     "meshcut==0.3.0",
     "scikit-image==0.24.0",
-    "monty==2024.10.21",
+    "monty==2024.12.10",
     "spglib==2.5.0",
     "plotly==5.24.1",
     "pyfftw==0.14.0",
